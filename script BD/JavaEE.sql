@@ -37,8 +37,8 @@ CREATE TABLE IF NOT EXISTS `Usuarios` (
 --
 
 INSERT INTO `Usuarios` (`Id_Usuario`, `Usuario`, `Contrasena`) VALUES
-(1, 'david', '123'),
-(2, 'hackro', '456');
+(1, 'jakaboy', '123'),
+(2, 'yobakaj', '456');
 
 --
 -- Índices para tablas volcadas
